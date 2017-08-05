@@ -2,8 +2,8 @@
 
 The dominant religion of Brumel, _The Church_ has established a world-wide
 network of priests that are allowed to traverse freely across disputed political
-borders, providing a critical route on passing information...for a small
-donation of course.
+borders, providing a critical flow of information during political distress...
+for a small donation of course.
 
 ## The God of Fire
 
