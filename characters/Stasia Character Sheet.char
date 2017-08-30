@@ -1,0 +1,186 @@
+{
+  "serialize_version": 1,
+  "name": "Stasia",
+  "gender": "female",
+  "stock": "man",
+  "lifepaths": [
+    [
+      "Noble Setting",
+      "Born Noble",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Noble Setting",
+      "Religious Acolyte",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "m"
+        ]
+      ]
+    ],
+    [
+      "Religious Subsetting",
+      "Cloistered Monk/nun",
+      0,
+      null,
+      null,
+      null,
+      []
+    ]
+  ],
+  "stats": [
+    {
+      "name": "Will",
+      "shade": "B",
+      "mentalPoints": 4,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Perception",
+      "shade": "B",
+      "mentalPoints": 4,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Power",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Forte",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Agility",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Speed",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    }
+  ],
+  "skills": {
+    "lifepath": [
+      {
+        "name": "Doctrine",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Bureaucracy",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Write",
+        "lifepathPoints": 1,
+        "generalPoints": 1
+      },
+      {
+        "name": "Read",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Etiquette",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Research",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "History",
+        "lifepathPoints": 3,
+        "generalPoints": 2
+      },
+      {
+        "name": "Meditation",
+        "lifepathPoints": 3,
+        "generalPoints": 2
+      },
+      {
+        "name": "Monastic Ritual",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Vintner",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Symbology",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      }
+    ],
+    "general": []
+  },
+  "traits": [
+    {
+      "name": "Faithful"
+    }
+  ],
+  "gear": [
+    {
+      "cost": 1,
+      "desc": "Clothes"
+    },
+    {
+      "cost": 3,
+      "desc": "Companion Animal"
+    }
+  ],
+  "property": [],
+  "relationships": [
+    {
+      "desc": "Dorn, cousin",
+      "importance": "minor",
+      "isImmedFam": false,
+      "isOtherFam": true,
+      "isRomantic": true,
+      "isForbidden": true,
+      "isHateful": false
+    }
+  ],
+  "affiliations": [
+    {
+      "desc": "Ascetic Order",
+      "importance": "large"
+    }
+  ],
+  "reputations": [
+    {
+      "desc": "Wise beyond her years",
+      "importance": "local"
+    }
+  ],
+  "attr_mod_questions": {},
+  "brutal_life_withdrawn": false,
+  "approp_weapons": {}
+}

@@ -1,0 +1,311 @@
+{
+  "serialize_version": 1,
+  "name": "Viktor",
+  "gender": "male",
+  "stock": "man",
+  "lifepaths": [
+    [
+      "Noble Setting",
+      "Born Noble",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Noble Court Subsetting",
+      "Page",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Noble Court Subsetting",
+      "Squire",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ],
+        [
+          1,
+          "m"
+        ]
+      ]
+    ],
+    [
+      "Noble Court Subsetting",
+      "Knight",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Professional Soldier Subsetting",
+      "Captain",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ],
+        [
+          1,
+          "m"
+        ]
+      ]
+    ]
+  ],
+  "stats": [
+    {
+      "name": "Will",
+      "shade": "B",
+      "mentalPoints": 5,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Perception",
+      "shade": "B",
+      "mentalPoints": 4,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Power",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 5,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Forte",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Agility",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Speed",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 5,
+      "eitherPoints": 0
+    }
+  ],
+  "skills": {
+    "lifepath": [
+      {
+        "name": "Riding",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Brawling",
+        "lifepathPoints": 1,
+        "generalPoints": 1
+      },
+      {
+        "name": "Write",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Read",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Sword",
+        "lifepathPoints": 5,
+        "generalPoints": 0
+      },
+      {
+        "name": "Armor Training",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Shield Training",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Lance",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Mounted Combat Training",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Etiquette",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Conspicuous",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Intimidation",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Falconry",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Command",
+        "lifepathPoints": 4,
+        "generalPoints": 1
+      },
+      {
+        "name": "Contract-wise",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Haggling",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Oratory",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Field Dressing",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Strategy",
+        "lifepathPoints": 2,
+        "generalPoints": 3
+      },
+      {
+        "name": "Mace",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      }
+    ],
+    "general": []
+  },
+  "traits": [
+    {
+      "name": "Sense Of Entitlement"
+    },
+    {
+      "name": "Determined"
+    }
+  ],
+  "gear": [
+    {
+      "cost": 12,
+      "desc": "Warhorse"
+    },
+    {
+      "cost": 5,
+      "desc": "Sword, Run of the Mill Quality"
+    },
+    {
+      "cost": 5,
+      "desc": "Mace, Run of the Mill Quality"
+    },
+    {
+      "cost": 5,
+      "desc": "Lance, Run of the Mill Quality"
+    },
+    {
+      "cost": 50,
+      "desc": "Armor, Full Plated Mail, Run Of The Mill Quality"
+    },
+    {
+      "cost": 1,
+      "desc": "Clothes"
+    },
+    {
+      "cost": 1,
+      "desc": "Shoes"
+    },
+    {
+      "cost": 1,
+      "desc": "Traveling Gear"
+    },
+    {
+      "cost": 6,
+      "desc": "Cash"
+    }
+  ],
+  "property": [],
+  "relationships": [
+    {
+      "desc": "Dorn, Brother",
+      "importance": "minor",
+      "isImmedFam": true,
+      "isOtherFam": false,
+      "isRomantic": false,
+      "isForbidden": false,
+      "isHateful": false
+    }
+  ],
+  "affiliations": [
+    {
+      "desc": "Paladins of Fire",
+      "importance": "small"
+    }
+  ],
+  "reputations": [],
+  "attr_mod_questions": {},
+  "brutal_life_withdrawn": false,
+  "approp_weapons": {
+    "Foot Soldier": [
+      "Lance"
+    ],
+    "Sergeant": [
+      "Mace"
+    ],
+    "Knight": [
+      "Lance"
+    ],
+    "Captain": [
+      "Mace"
+    ]
+  }
+}
