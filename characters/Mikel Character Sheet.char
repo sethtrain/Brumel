@@ -1,0 +1,322 @@
+{
+  "serialize_version": 1,
+  "name": "Mikel",
+  "gender": "male",
+  "stock": "man",
+  "lifepaths": [
+    [
+      "City Dweller Setting",
+      "City Born",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Noble Setting",
+      "Religious Acolyte",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "m"
+        ]
+      ]
+    ],
+    [
+      "Religious Subsetting",
+      "Cloistered Monk/nun",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Religious Subsetting",
+      "Cloistered Monk/nun",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Religious Subsetting",
+      "Priest",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "m"
+        ]
+      ]
+    ],
+    [
+      "Religious Subsetting",
+      "Theologian",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "m"
+        ]
+      ]
+    ],
+    [
+      "Religious Subsetting",
+      "Custodian",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "m"
+        ]
+      ]
+    ]
+  ],
+  "stats": [
+    {
+      "name": "Will",
+      "shade": "B",
+      "mentalPoints": 6,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Perception",
+      "shade": "B",
+      "mentalPoints": 5,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Power",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 3,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Forte",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 2,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Agility",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 3,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Speed",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 3,
+      "eitherPoints": 0
+    }
+  ],
+  "skills": {
+    "lifepath": [
+      {
+        "name": "Doctrine",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Bureaucracy",
+        "lifepathPoints": 2,
+        "generalPoints": 3
+      },
+      {
+        "name": "Write",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Read",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Etiquette",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Research",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "History",
+        "lifepathPoints": 5,
+        "generalPoints": 1
+      },
+      {
+        "name": "Meditation",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Monastic Ritual",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Vintner",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Symbology",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Oratory",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Suasion",
+        "lifepathPoints": 4,
+        "generalPoints": 0
+      },
+      {
+        "name": "Ritual",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Religious History",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Rhetoric",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Philosophy",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Church Law",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Obscure History",
+        "lifepathPoints": 4,
+        "generalPoints": 0
+      },
+      {
+        "name": "Relic-wise",
+        "lifepathPoints": 5,
+        "generalPoints": 0
+      },
+      {
+        "name": "Observation",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Folklore",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Saint-wise",
+        "lifepathPoints": 5,
+        "generalPoints": 0
+      }
+    ],
+    "general": []
+  },
+  "traits": [
+    {
+      "name": "Sense Of Entitlement"
+    },
+    {
+      "name": "Faithful"
+    },
+    {
+      "name": "Aches And Pains"
+    },
+    {
+      "name": "Collector"
+    },
+    {
+      "name": "Learned"
+    }
+  ],
+  "gear": [
+    {
+      "cost": 1,
+      "desc": "Clothes"
+    },
+    {
+      "cost": 1,
+      "desc": "Shoes"
+    },
+    {
+      "cost": 5,
+      "desc": "Finery"
+    }
+  ],
+  "property": [
+    {
+      "cost": 45,
+      "desc": "Property, A Well-paid Position (Like Mayor)"
+    }
+  ],
+  "relationships": [
+    {
+      "desc": "Dorn, son",
+      "importance": "minor",
+      "isImmedFam": true,
+      "isOtherFam": false,
+      "isRomantic": false,
+      "isForbidden": false,
+      "isHateful": true
+    },
+    {
+      "desc": "Viktor, son",
+      "importance": "minor",
+      "isImmedFam": true,
+      "isOtherFam": false,
+      "isRomantic": false,
+      "isForbidden": false,
+      "isHateful": false
+    }
+  ],
+  "affiliations": [],
+  "reputations": [
+    {
+      "desc": "Chief Custodian",
+      "importance": "regional"
+    }
+  ],
+  "attr_mod_questions": {},
+  "brutal_life_withdrawn": false,
+  "approp_weapons": {}
+}
