@@ -2,7 +2,7 @@
 
 Second son of Mikel, Chief Curator of the reliquary at the Temple of Fire in
 Foren, Dorn found he wasn't cut out to be a knight-captain like his elder
-brother, Viktor, nor a scholar like his father. he did, however, have a knack
+brother, Viktor, nor a scholar like his father. He did, however, have a knack
 for recognizing how to turn a profit on  objects that maybe were not, precisely,
 his to sell. When he was caught by Mikel selling religious relics out the
 reliquary, Dorn was quietly banished and disowned rather than cause a scandal in
