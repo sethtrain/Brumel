@@ -40,5 +40,22 @@ Fortunately a trapper, woodsman, and displaced farmer named Ando arrived on the
 scene. After some questions, Dorn convinced him to be their new guide on the
 journey, perhaps with a few lies as to its importance.
 
+## The Negotiations with Queen Biba
+
 As the group entered the Central Pass, a well-travelled corridor through the
-Spine, they heard the distant sound of drums.
+Spine, they heard the distant sound of drums and soon encountered a tribe of
+Orcs blocking the road.
+
+Central to this band was a long-tusked woman named Biba. Dorn quickly found that
+the tribe was starved fro resources and that it was Biba's job, as their leader,
+to find a solution. After initially persuading her to hear the party out, Ando,
+the new guide, offered to train a small group of orcs in the ways of trapping.
+
+This was well-met by Biba and while Ando spent the next four days instructing
+his pupils, Krai and Teph ingratiated themselves with the remaining orcs through
+music and rough, but dwarven-made hunting equipment respectively. During this
+time Biba and Dorn consulted on strategy and tactics deep into the night.
+
+After Ando returned, the party made its way through the pass and into the
+[Shattered Plains](../places/shattered-plains.md), stopping only for supplies in
+the small villages at the western mouth of the pass.
