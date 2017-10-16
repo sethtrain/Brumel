@@ -2,4 +2,4 @@
 
 # Brumel: A Setting for The Burning Wheel
 
-![The Burning Wheel](_assets/burning-wheel.jpg)
+![The Burning Wheel](assets/burning-wheel.jpg)
