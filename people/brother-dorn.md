@@ -59,3 +59,16 @@ time Biba and Dorn consulted on strategy and tactics deep into the night.
 After Ando returned, the party made its way through the pass and into the
 [Shattered Plains](../places/shattered-plains.md), stopping only for supplies in
 the small villages at the western mouth of the pass.
+
+## The Dwarven Roads
+
+The group descended into the dwarven roads, which run deep in the crevasses of
+the Shattered Plains. After losing their light and, tragically, their donkey,
+they eventually met a dwarf named [Klyn](./klyn.md) who claimed to be a follower
+of a woman named [Thine](./thine.md).
+
+Klyn immediately accused Dorn's intern, Krai, of being an elf and associated him
+with one of a group of missing elf children that Thine is looking for. After
+claiming Thine created and currently controls the Blight, Dorn thought it best
+that Thine never hear of the party and certainly not hear of Krai. Unfortunately,
+After feeding Klyn a blight-infected portion of bread, he ran off in the night.

@@ -7,7 +7,9 @@
 ### People
 * [Brother Dorn](people/brother-dorn.md)
 * [Duke Karloff](people/duke-karloff.md)
+* [Klyn](people/klyn.md)
 * ["Queen" Biba](people/biba.md)
+* [Thine](people/thine.md)
 
 ### Places
 * [Duchy of Foren](places/duchy-of-foren.md)
